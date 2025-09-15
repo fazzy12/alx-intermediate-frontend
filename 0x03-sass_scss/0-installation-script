@@ -1,5 +1,5 @@
 # Steps taken to install SASS
 
-# 1. Navigated into the alx-intermediate-frontend repository.
-# 2. Created the 0x03-sass_scss directory.
-# 3. Installed sass globally using npm: npm install -g sass
+1. Navigated into the alx-intermediate-frontend repository.
+2. Created the 0x03-sass_scss directory.
+3. Installed sass globally using npm: npm install -g sass
